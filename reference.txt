@@ -1,2 +1,5 @@
 https://nolboo.kim/blog/2013/10/06/github-for-beginner/
+https://backlog.com/git-tutorial/kr/   : git 입문
+www.haruair.com/blog/2210              : git log-p 파일 하나의 변경 이력을 한번에 보기
+https://github.com/jeonghwan-kim/git-usage : git 명령어
 
